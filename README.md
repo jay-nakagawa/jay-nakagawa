@@ -6,7 +6,7 @@
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jay-nakagawa&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay-nakagawa)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay-nakagawa&count_private=true)
 
 
 <!---
