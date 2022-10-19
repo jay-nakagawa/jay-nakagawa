@@ -5,7 +5,7 @@
 - 📫 How to reach me: just dm me!
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jay-nakagawa&show_icons=true&count_private=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jay-nakagawa&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay-nakagawa)
 
 
